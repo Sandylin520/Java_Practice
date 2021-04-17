@@ -1,0 +1,17 @@
+Note:
+
+C:\Users\b8105\Desktop\Java_Practice>javac EscapeSequenceComments.java     //編譯Java這個檔案
+C:\Users\b8105\Desktop\Java_Practice>java EscapeSequenceComments           //執行Java檔 
+
+Learn   Java
+        the
+Hard    Way
+
+        Learn Java the "Hard" Way!
+Hello
+Jelly
+Hard to believe,eh?
+Surprsied? /*abcde*/Or what did you expect?
+\ // -=- \//
+\\ \\ \\\\
+I hope you understand "escape sequences" now.
